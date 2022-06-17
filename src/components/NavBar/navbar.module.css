@@ -1,0 +1,16 @@
+.navMain {
+    color: rgb(255, 172, 196);
+    font-size: 20px;    
+}
+
+.navList{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.title {
+    color: rgb(14, 148, 110);
+    font-size: 98px;
+    text-align: center;
+}
